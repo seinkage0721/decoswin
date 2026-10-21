@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+data/
+checkpoints/
+runs/
+tmp/
+*.pt
+*.pth
+*.ckpt
+paper_page*.png
+.claude/settings.local.json
